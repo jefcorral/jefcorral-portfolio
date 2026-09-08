@@ -1,0 +1,18 @@
+{
+  "name": "Jeferson Corral - Full Stack Engineer",
+  "short_name": "JC Portfolio",
+  "description": "Personal portfolio of Jeferson Corral, a Full Stack Engineer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1326",
+  "theme_color": "#0b1326",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "monogram.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
